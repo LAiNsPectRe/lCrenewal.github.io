@@ -312,6 +312,11 @@ text-align:center;
 
 .info{
     font-size:20pt;
+         font-family: "Fleur De Leah", cursive;
+    font-weight:500;
+    color: #ffa700;
+    font-size: 150px;
+    background: none;
 }
 
 .circle{
@@ -337,4 +342,26 @@ border-color:#ffa700;
        font-size:46px;
      color: #ffa700; 
 }
+
+
+/*Menu*/
+.menu{
+    background:white;
+}
+.aja
+{
+    font-family: "Fleur De Leah", cursive;
+    font-weight:500;
+    color: #ffa700;
+    font-size: 150px;
+    background: none;
+    width:300px;
+    
+}
+
+.capitalism{
+    border: 2px solid #ffa700;
+    width: 300px;
+}
+
 
